@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫 About Me:<br>🎓 I'm a Data Science student at VIT Vellore with a strong interest in backend development and cybersecurity.<br>💻 Passionate about building secure, scalable systems and leveraging data to create intelligent solutions.<br>🛡️ Currently exploring Node.js/Express, ethical hacking, and secure system design.<br>🚀 Always eager to learn, grow, and contribute to impactful, real-world tech projects.<br><br>
+#  About Me:
+ About Me:<br>🎓 I'm a Data Science student at VIT Vellore with a strong interest in backend development and cybersecurity.<br>💻 Passionate about building secure, scalable systems and leveraging data to create intelligent solutions.<br>🛡️ Currently exploring Node.js/Express, ethical hacking, and secure system design.<br>🚀 Always eager to learn, grow, and contribute to impactful, real-world tech projects.<br><br>
 
 
 ## 🌐 Socials:
