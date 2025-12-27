@@ -108,7 +108,11 @@
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=Vyomkhurana&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/Vyomkhurana)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=Memory-lens&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/Memory-lens)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=SnifferX&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/SnifferX)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=DevXploit&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/DevXploit)
 
 </div>
 
