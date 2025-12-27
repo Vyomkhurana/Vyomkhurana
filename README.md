@@ -24,8 +24,8 @@
 > 🚀 Actively seeking opportunities in Software Development and Cybersecurity roles | 🎓 Data Science @ VIT Vellore
 
 <div class="badges-githubstats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyomkhurana&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&bg_color=0d1117" alt="Vyomkhurana's github statistics" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vyomkhurana&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c60d1&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&sideNums=c7b8ff&dates=f0f0f5" alt="Vyomkhurana's github commit streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vyomkhurana&show_icons=true&theme=dark&count_private=true" alt="Vyomkhurana's github statistics" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vyomkhurana&theme=dark" alt="Vyomkhurana's github commit streak" height="165" />
 </div>
 
 ## 🔧 What I do now
@@ -47,7 +47,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyomkhurana&layout=compact&theme=tokyonight&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyomkhurana&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ## ✨ I can help with
