@@ -106,16 +106,18 @@
 
 ## 🌟 Featured projects
 
-- 📊 **Your Data Science Project** — Description of your ML/data analysis project\
-  [`Vyomkhurana/project-name`](https://github.com/Vyomkhurana/project-name)
+<div align="center">
   
-- 🔐 **Your Cybersecurity Project** — Description of your security/pentesting tool\
-  [`Vyomkhurana/project-name`](https://github.com/Vyomkhurana/project-name)
-  
-- 💻 **Your Software Project** — Description of your application/tool\
-  [`Vyomkhurana/project-name`](https://github.com/Vyomkhurana/project-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=Vyomkhurana&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/Vyomkhurana)
 
-<!-- Replace the placeholders above with your actual project names and links -->
+</div>
+
+<!-- 
+To add more projects, use this format:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=YOUR-REPO-NAME&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/YOUR-REPO-NAME)
+
+Just replace YOUR-REPO-NAME with your actual repository names. These cards auto-fetch repo info!
+-->
 
 ## 📝 Learning & Growth
 
