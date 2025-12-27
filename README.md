@@ -106,19 +106,54 @@
 
 ## 🌟 Featured projects
 
-<div align="center">
-
-<a href="https://github.com/Vyomkhurana/Memory-lens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=Memory-lens&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d" />
-</a>
-<a href="https://github.com/Vyomkhurana/SnifferX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=SnifferX&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d" />
-</a>
-<a href="https://github.com/Vyomkhurana/DevXploit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=DevXploit&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d" />
-</a>
-
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Memory Lens</h3>
+<div align="center">  
+<a href="https://github.com/Vyomkhurana/Memory-lens" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=Memory-lens&theme=dark&show_icons=true" alt="Memory-lens" /></a>
+<p>
+<a href="https://github.com/Vyomkhurana/Memory-lens" target="_blank">
+<img src="https://img.shields.io/github/stars/Vyomkhurana/Memory-lens?style=social" />
+</a>  
+</p>
+<p><strong>Data Science & Computer Vision</strong> - Intelligent image recognition system</p>
 </div>
+</td>
+<td width="50%">
+<h3 align="center">SnifferX</h3>
+<div align="center">  
+<a href="https://github.com/Vyomkhurana/SnifferX" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=SnifferX&theme=dark&show_icons=true" alt="SnifferX" /></a>
+<p>
+<a href="https://github.com/Vyomkhurana/SnifferX" target="_blank">
+<img src="https://img.shields.io/github/stars/Vyomkhurana/SnifferX?style=social" />
+</a>  
+</p>
+<p><strong>Network Security Tool</strong> - Advanced packet analysis and network monitoring</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">DevXploit</h3>
+<div align="center">  
+<a href="https://github.com/Vyomkhurana/DevXploit" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=DevXploit&theme=dark&show_icons=true" alt="DevXploit" /></a>
+<p>
+<a href="https://github.com/Vyomkhurana/DevXploit" target="_blank">
+<img src="https://img.shields.io/github/stars/Vyomkhurana/DevXploit?style=social" />
+</a>  
+</p>
+<p><strong>Penetration Testing</strong> - Comprehensive security exploitation framework</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">More Projects Coming Soon! 🚀</h3>
+<div align="center">
+<p>Check out my <a href="https://github.com/Vyomkhurana?tab=repositories" target="_blank">repositories</a> for more</p>
+</div>
+</td>
+</tr>
+</table>
 
 <!-- 
 To add more projects, use this format:
