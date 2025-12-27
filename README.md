@@ -24,8 +24,8 @@
 > 🎓 Data Science student at VIT Vellore | �️ Ethical Hacker & Penetration Tester | 💻 Software Developer | 🐧 Linux Enthusiast
 
 <div class="badges-githubstats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyomkhurana&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="Vyomkhurana's github statistics" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vyomkhurana&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="Vyomkhurana's github commit streak" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vyomkhurana&show_icons=true&hide_border=true&count_private=true&theme=radical&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&bg_color=0d1117" alt="Vyomkhurana's github statistics" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Vyomkhurana&theme=radical&hide_border=true&stroke=7c60d1&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&sideNums=c7b8ff&dates=f0f0f5" alt="Vyomkhurana's github commit streak" height="165" />
 </div>
 
 ## 🔧 What I do now
@@ -47,7 +47,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyomkhurana&layout=compact&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&hide_border=true&border_radius=10&border_color=131313" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyomkhurana&layout=compact&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ## ✨ I can help with
@@ -106,15 +106,16 @@
 
 ## 🌟 Featured projects
 
-*Coming soon! Building awesome projects in data science, penetration testing, and secure software development.*
+- 📊 **Your Data Science Project** — Description of your ML/data analysis project\
+  [`Vyomkhurana/project-name`](https://github.com/Vyomkhurana/project-name)
+  
+- 🔐 **Your Cybersecurity Project** — Description of your security/pentesting tool\
+  [`Vyomkhurana/project-name`](https://github.com/Vyomkhurana/project-name)
+  
+- 💻 **Your Software Project** — Description of your application/tool\
+  [`Vyomkhurana/project-name`](https://github.com/Vyomkhurana/project-name)
 
-<!-- 
-Add your projects here like:
-- 📊 **ML Project** — Machine learning model for prediction\
-  [`username/repo-name`](https://github.com/username/repo-name)
-- 🔐 **Security Tool** — Network analysis and pentesting tool\
-  [`username/repo-name`](https://github.com/username/repo-name)
--->
+<!-- Replace the placeholders above with your actual project names and links -->
 
 ## 📝 Learning & Growth
 
