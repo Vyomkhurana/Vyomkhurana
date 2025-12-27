@@ -21,7 +21,7 @@
 • Instagram: <a href="https://instagram.com/vyomkhuranaa" target="_blank">@vyomkhuranaa</a>
 
 > [!IMPORTANT]
-> 🎓 Data Science student at VIT Vellore | �️ Ethical Hacker & Penetration Tester | 💻 Software Developer | 🐧 Linux Enthusiast
+> 🚀 Actively seeking opportunities in Software Development and Cybersecurity roles | 🎓 Data Science @ VIT Vellore
 
 <div class="badges-githubstats">
   <img src="https://github-readme-stats.vercel.app/api?username=Vyomkhurana&show_icons=true&hide_border=true&count_private=true&theme=radical&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&bg_color=0d1117" alt="Vyomkhurana's github statistics" height="165" />
@@ -107,12 +107,16 @@
 ## 🌟 Featured projects
 
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=Memory-lens&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/Memory-lens)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=SnifferX&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/SnifferX)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=DevXploit&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/DevXploit)
+<a href="https://github.com/Vyomkhurana/Memory-lens">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=Memory-lens&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d" />
+</a>
+<a href="https://github.com/Vyomkhurana/SnifferX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=SnifferX&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d" />
+</a>
+<a href="https://github.com/Vyomkhurana/DevXploit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=DevXploit&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d" />
+</a>
 
 </div>
 
