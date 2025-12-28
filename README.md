@@ -23,9 +23,9 @@
 > [!IMPORTANT]
 > 🚀 Actively seeking opportunities in Software Development and Cybersecurity roles | 🎓 Data Science @ VIT Vellore
 
-<div class="badges-githubstats">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vyomkhurana&show_icons=true&theme=dark&count_private=true" alt="Vyomkhurana's github statistics" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vyomkhurana&theme=dark" alt="Vyomkhurana's github commit streak" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vyomkhurana&theme=dark&column=4" alt="Trophies" height="165" />
 </div>
 
 ## 🔧 What I do now
@@ -177,7 +177,13 @@ Currently exploring:
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Vyomkhurana&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  - ⭐ Total stars: ![GitHub stars](https://img.shields.io/github/stars/Vyomkhurana?style=flat&logo=github&label=Stars&color=fd7cff)
+  - 👥 Followers: ![GitHub followers](https://img.shields.io/github/followers/Vyomkhurana?style=flat&logo=github&label=Followers&color=7c60d1)
+  - 📂 Repositories: ![Repos](https://img.shields.io/github/repo-count/Vyomkhurana?style=flat&logo=github&color=6f42c1)
+
+  <p>
+  <a href="https://github.com/Vyomkhurana?tab=repositories" target="_blank">View all repositories and contributions on GitHub</a>
+  </p>
 </div>
 
 ---
