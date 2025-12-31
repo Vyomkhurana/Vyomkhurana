@@ -1,3 +1,4 @@
+<!-- Header image currently uses capsule-render.vercel.app, which may be down. If you want a working header, consider replacing with a static image or another service. -->
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hey,%20I'm%20Vyom!&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20•%20Linux%20•%20Cybersecurity&descSize=20&descAlignY=55)](https://github.com/Vyomkhurana)
 
 # aka Vyomkhurana github profile
@@ -24,7 +25,7 @@
 > 🚀 Actively seeking opportunities in Software Development and Cybersecurity roles | 🎓 Data Science @ VIT Vellore
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyomkhurana&show_icons=true&theme=dark&count_private=true" alt="Vyomkhurana's github statistics" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vyomkhurana&show_icons=true&theme=dark&count_private=true" alt="Vyomkhurana's github statistics" height="165" />
   <img src="https://github-profile-trophy.vercel.app/?username=Vyomkhurana&theme=dark&column=4" alt="Trophies" height="165" />
 </div>
 
@@ -47,7 +48,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyomkhurana&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vyomkhurana&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ## ✨ I can help with
@@ -111,7 +112,7 @@
 <td width="50%">
 <h3 align="center">Memory Lens</h3>
 <div align="center">  
-<a href="https://github.com/Vyomkhurana/Memory-lens" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=Memory-lens&theme=dark&show_icons=true" alt="Memory-lens" /></a>
+<a href="https://github.com/Vyomkhurana/Memory-lens" target="_blank"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Vyomkhurana&repo=Memory-lens&theme=dark&show_icons=true" alt="Memory-lens" /></a>
 <p>
 <a href="https://github.com/Vyomkhurana/Memory-lens" target="_blank">
 <img src="https://img.shields.io/github/stars/Vyomkhurana/Memory-lens?style=social" />
@@ -123,13 +124,13 @@
 <td width="50%">
 <h3 align="center">SnifferX</h3>
 <div align="center">  
-<a href="https://github.com/Vyomkhurana/SnifferX" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=SnifferX&theme=dark&show_icons=true" alt="SnifferX" /></a>
+<a href="https://github.com/Vyomkhurana/SnifferX" target="_blank"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Vyomkhurana&repo=SnifferX&theme=dark&show_icons=true" alt="SnifferX" /></a>
 <p>
 <a href="https://github.com/Vyomkhurana/SnifferX" target="_blank">
 <img src="https://img.shields.io/github/stars/Vyomkhurana/SnifferX?style=social" />
 </a>  
 </p>
-<p><strong>Network Security Tool</strong> - Advanced packet analysis and network monitoring</p>
+![![alt text](image-1.png)](image.png)<p><strong>Network Security Tool</strong> - Advanced packet analysis and network monitoring</p>
 </div>
 </td>
 </tr>
@@ -137,7 +138,7 @@
 <td width="50%">
 <h3 align="center">DevXploit</h3>
 <div align="center">  
-<a href="https://github.com/Vyomkhurana/DevXploit" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=DevXploit&theme=dark&show_icons=true" alt="DevXploit" /></a>
+<a href="https://github.com/Vyomkhurana/DevXploit" target="_blank"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Vyomkhurana&repo=DevXploit&theme=dark&show_icons=true" alt="DevXploit" /></a>
 <p>
 <a href="https://github.com/Vyomkhurana/DevXploit" target="_blank">
 <img src="https://img.shields.io/github/stars/Vyomkhurana/DevXploit?style=social" />
@@ -157,7 +158,7 @@
 
 <!-- 
 To add more projects, use this format:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vyomkhurana&repo=YOUR-REPO-NAME&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/YOUR-REPO-NAME)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=Vyomkhurana&repo=YOUR-REPO-NAME&theme=radical&hide_border=true&title_color=7c60d1&text_color=f0f0f5&bg_color=0d1117&icon_color=319e8d)](https://github.com/Vyomkhurana/YOUR-REPO-NAME)
 
 Just replace YOUR-REPO-NAME with your actual repository names. These cards auto-fetch repo info!
 -->
@@ -176,13 +177,19 @@ Currently exploring:
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  - ⭐ Total stars: ![GitHub stars](https://img.shields.io/github/stars/Vyomkhurana?style=flat&logo=github&label=Stars&color=fd7cff)
-  - 👥 Followers: ![GitHub followers](https://img.shields.io/github/followers/Vyomkhurana?style=flat&logo=github&label=Followers&color=7c60d1)
-  - 📂 Repositories: ![Repos](https://img.shields.io/github/repo-count/Vyomkhurana?style=flat&logo=github&color=6f42c1)
 
+<div align="center">
+  <a href="https://github.com/Vyomkhurana?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/Vyomkhurana?style=flat&logo=github&label=Stars&color=fd7cff" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/Vyomkhurana?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Vyomkhurana?style=flat&logo=github&label=Followers&color=7c60d1" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Vyomkhurana?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/repo-count/Vyomkhurana?style=flat&logo=github&color=6f42c1" alt="Repos" />
+  </a>
   <p>
-  <a href="https://github.com/Vyomkhurana?tab=repositories" target="_blank">View all repositories and contributions on GitHub</a>
+    <a href="https://github.com/Vyomkhurana?tab=repositories" target="_blank">View all repositories and contributions on GitHub</a>
   </p>
 </div>
 
