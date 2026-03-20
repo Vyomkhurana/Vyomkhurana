@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Data+Science+%2B+Machine+Learning;Ethical+Hacking+%26+Penetration+Testing;Software+Development+on+Linux;Network+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
-## 📬 About me -- Contact
+##  About me -- Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/vyomkhurana)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff)](https://instagram.com/vyomkhuranaa)
@@ -22,7 +22,7 @@
 • Instagram: <a href="https://instagram.com/vyomkhuranaa" target="_blank">@vyomkhuranaa</a>
 
 > [!IMPORTANT]
-> 🚀 Actively seeking opportunities in Software Development and Cybersecurity roles | 🎓 Data Science @ VIT Vellore
+>  Actively seeking opportunities in Software Development and Cybersecurity roles | 🎓 Data Science @ VIT Vellore
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Vyomkhurana&show_icons=true&theme=dark&count_private=true" alt="Vyomkhurana's github statistics" height="165" />
@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vyomkhurana&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-## ✨ I can help with
+##  I can help with
 
 - **Data Science & Analytics:** Machine learning models, data visualization, statistical analysis
 ![Python](https://img.shields.io/badge/Python-319e8d?style=flat&logo=python&logoColor=ffffff)
@@ -69,7 +69,7 @@
 - **SQL Database Management:** PostgreSQL, MySQL query optimization and design
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=ffffff)
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -105,7 +105,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 🌟 Featured projects
+##  Featured projects
 
 <table>
 <tr>
@@ -148,7 +148,7 @@
 </div>
 </td>
 <td width="50%">
-<h3 align="center">More Projects Coming Soon! 🚀</h3>
+<h3 align="center">More Projects Coming Soon! </h3>
 <div align="center">
 <p>Check out my <a href="https://github.com/Vyomkhurana?tab=repositories" target="_blank">repositories</a> for more</p>
 </div>
@@ -163,7 +163,7 @@ To add more projects, use this format:
 Just replace YOUR-REPO-NAME with your actual repository names. These cards auto-fetch repo info!
 -->
 
-## 📝 Learning & Growth
+##  Learning & Growth
 
 Currently exploring:
 - Advanced machine learning algorithms and deep learning with TensorFlow
